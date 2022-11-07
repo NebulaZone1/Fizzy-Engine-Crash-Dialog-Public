@@ -11,7 +11,7 @@ class Main {
     static var args:Array<String> = Sys.args();
 
     public static function main() {
-        Application.current.window.title = "FNF# Crashed!";
+        Application.current.window.title = "Fizzy Engine Crashed!";
 
         var app = new HaxeUIApp();
 
